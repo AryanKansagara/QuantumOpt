@@ -1,0 +1,3 @@
+qiskit==2.6.0
+pennylane==0.45.1
+numpy==2.5.4
